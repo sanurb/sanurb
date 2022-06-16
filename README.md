@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SANURB&fontSize=90)
 <h1 align="center">Hi there 👋, Santiago Urbano</h1>
 <h3 align="center">A young-dumb 🤓 front end developer from Colombia 🇨🇴</h3>
 
@@ -22,8 +23,9 @@ Skills:
 
 
 📈 My GitHub Stats
-<p align="center">
+<div style="display: flex, height:180px">
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=sanurb&column=6" alt="Sanurb's GitHub Tropy's" align="center"></img> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sanurb&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border_radius=20px&border_color=FF3B3B&custom_title=All%20My%20Stats%20in%20a%20Nutshell" alt="sanurb's GitHub Stats" align="center"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanurb&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border_radius=20px&border_color=FF3B3B&custom_title=All%20My%20Stats%20in%20a%20Nutshell" alt="sanurb's GitHub Stats" align="center" style="height:180px"></img>
+ <img align="center" style="height:180px" src="http://github-readme-streak-stats.herokuapp.com?user=sanurb&theme=dracula&border=FF3B3B&background=141321&fire=DD8957" alt="Sanurb's Streak Stats"></img>
+</div>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=sanurb&theme=chartreuse-dark&custom_title=My%20Contribution%20Graph%20of%20the%20last%2031%20days" alt="Activity Graph last 31 days"></img>
