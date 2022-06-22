@@ -7,7 +7,7 @@ A passionate web developer and computer engineering student from Cali, Valle del
 
 - 🔭 I’m currently working on on myself 
 
-- 🌱 I’m currently learning Angular, and 
+- 🌱 I’m currently learning Angular, and Python
 
 - 💬 Ask me about Ask me about anything, I am happy to help 
 
