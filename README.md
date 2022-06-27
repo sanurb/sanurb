@@ -30,7 +30,7 @@ A passionate web developer and computer engineering student from Cali, Valle del
 </div>
 <br />
 <br />
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=sanurb&theme=xcode&custom_title=My%20Contribution%20Graph%20of%20the%20last%2031%20days" alt="Activity Graph last 31 days"></img>
+<!-- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sanurb&theme=xcode&custom_title=My%20Contribution%20Graph%20of%20the%20last%2031%20days" alt="Activity Graph last 31 days"></img> -->
 
 
 ### Connect with me:
