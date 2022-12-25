@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SANURB&fontSize=90)
 <h1 align="center">Hi there 👋, Santiago Urbano</h1>
-<h3 align="center">A young-dumb 🤓 front end developer from Colombia 🇨🇴</h3>
+<h3 align="center">A young-dumb 🤓 developer from Colombia 🇨🇴</h3>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sanurb alt=sanurb/> </p>
 A passionate web developer and computer engineering student from Cali, Valle del Cauca. I love making ideas come to life with code. I'm a big fan of functional programming. 
