@@ -6,7 +6,7 @@
 A passionate web developer and computer engineering student from Cali, Valle del Cauca. I love making ideas come to life with code. I'm a big fan of functional programming. 
 
 
-- 🌱 I’m currently learning Angular, and Django
+- 🌱 I’m currently learning Docker, and Kubernetes
 
 - 💬 Ask me about Ask me about anything, I am happy to help 
 
