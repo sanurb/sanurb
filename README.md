@@ -3,7 +3,7 @@
 <h3 align="center">A young-dumb 🤓 developer from Colombia 🇨🇴</h3>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sanurb alt=sanurb/> </p>
-A passionate web developer and computer engineering student from Cali, Valle del Cauca. I love making ideas come to life with code. I'm a big fan of functional programming. 
+A passionate web developer from Cali, Valle del Cauca. I love making ideas come to life with code. I'm a big fan of functional programming. 
 
 
 - 🌱 I’m currently learning Docker, and Kubernetes
