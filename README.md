@@ -8,7 +8,7 @@ A passionate web developer from Cali, Valle del Cauca. I love making ideas come 
 
 - 🌱 I’m currently learning Docker, and Kubernetes
 
-- 💬 Ask me about Ask me about anything, I am happy to help 
+- 💬 Ask me about anything, I am happy to help 
 
 - 📫 How to reach me: @davuwh 
 <br />
