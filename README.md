@@ -30,6 +30,12 @@ A passionate web developer from Cali, Valle del Cauca. I love making ideas come 
  <img align="center" height="180" width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=sanurb&theme=dracula&border=FF3B3B&background=141321&fire=DD8957" alt="Sanurb's Streak Stats"></img>
 </div>
 
+<div align="center">
+ <a href="https://2kabhishek.github.io/projects" target="_blank" title="GitHub metrics!">
+     <img width="500" src="https://raw.githubusercontent.com/sanurb/sanurb/master/assets/gen/metrics.svg" />
+ </a>
+</div>
+
 
 ### Connect with me:
 
