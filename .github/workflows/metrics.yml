@@ -13,7 +13,8 @@ jobs:
     permissions:
         contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: General
+        uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -40,4 +41,16 @@ jobs:
           commits_authoring: Santiago Urbano, sanurb, sanurb@users.noreply.github.com
           plugin_languages_details: lines, percentage
           plugin_languages_other: no
-          
+        
+      - name: Achievements
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+            filename: assets/gen/chievements.svg
+            token: ${{ secrets.METRICS_TOKEN }}
+            base: ""
+            output_action: gist
+            committer_gist: ${{ secrets.METRICS_TOKEN }}
+            plugin_achievements: yes
+            plugin_achievements_display: compact
+            plugin_fortune: yes
