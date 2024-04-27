@@ -15,6 +15,7 @@ A passionate web developer from Cali, Valle del Cauca. I love making ideas come 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
@@ -31,7 +32,7 @@ A passionate web developer from Cali, Valle del Cauca. I love making ideas come 
 </div>
 
 <div align="center">
- <a href="https://2kabhishek.github.io/projects" target="_blank" title="GitHub metrics!">
+ <a href="https://sanurb.github.io/projects" target="_blank" title="GitHub metrics!">
      <img width="500" src="https://raw.githubusercontent.com/sanurb/sanurb/master/assets/gen/metrics.svg" />
  </a>
 </div>
