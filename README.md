@@ -43,6 +43,3 @@ A passionate web developer from Cali, Valle del Cauca. I love making ideas come 
 [<img align="left" alt="sanurb | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/sanurb/
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: var(--light-grad-pink-blue, radial-gradient(ellipse at 40% 0%, #bf398910 0, transparent 75%), radial-gradient(ellipse at 60% 0%, #096bde10 0, transparent 75%)), url('https://raw.githubusercontent.com/mxbi/mxbi/main/pattern.png');]{x0000}$}
