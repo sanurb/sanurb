@@ -144,20 +144,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.01mb of code in 739 edited files across 103 commits over last 14 days</small>
+                <small>estimation from 1.01mb of code in 745 edited files across 109 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="338.6364179223313" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="338.6364179223313" y="0" width="79.54019785425666" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="418.17661577658794" y="0" width="22.002428392284877" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="440.17904416887285" y="0" width="15.716674296861004" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="455.89571846573386" y="0" width="3.5121784536581804" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="459.40789691939204" y="0" width="0.21822355805914395" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.6261204774512" y="0" width="0.18770278070821475" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="459.81382325815946" y="0" width="0.18617674184066826" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="338.5735181929749" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="338.5735181929749" y="0" width="79.52542372881355" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="418.0989419217884" y="0" width="21.998341570201333" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="440.0972834919898" y="0" width="15.71375501675014" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="455.81103850873995" y="0" width="3.511526087100733" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="459.3225645958407" y="0" width="0.27158446382964607" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.5941490596703" y="0" width="0.21818302431258085" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.8123320839829" y="0" width="0.187667916017115" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -170,7 +170,7 @@
                             </div>
                             <small>
                                 <div>14.4k lines</div>
-                                <div>73.62%</div>
+                                <div>73.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -200,13 +200,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#C1F12E" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Batchfile
+                                Shell
                             </div>
                             <small>
-                                <div>2 lines</div>
-                                <div>0.04%</div>
+                                <div>8 lines</div>
+                                <div>0.05%</div>
                             </small>
                         </div>
                     </section>
@@ -238,24 +238,24 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Shell
-                            </div>
-                            <small>
-                                <div>8 lines</div>
-                                <div>0.05%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 Dockerfile
                             </div>
                             <small>
-                                <div>14 lines</div>
+                                <div>20 lines</div>
+                                <div>0.06%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#C1F12E" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Batchfile
+                            </div>
+                            <small>
+                                <div>2 lines</div>
                                 <div>0.04%</div>
                             </small>
                         </div>
