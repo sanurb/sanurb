@@ -144,30 +144,30 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 130kb of code in 80 edited files across 80 commits over last 12 days</small>
+                <small>estimation from 153kb of code in 107 edited files across 134 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="299.61742610524175" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="299.61742610524175" y="0" width="128.6648917227696" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="428.2823178280113" y="0" width="16.319082907968593" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="444.6014007359799" y="0" width="14.306500025437094" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="458.907900761417" y="0" width="1.0920992385829844" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="221.77790241166574" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="221.77790241166574" y="0" width="215.41783510936625" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="437.19573752103196" y="0" width="11.733034212002243" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="448.9287717330342" y="0" width="10.28603477285474" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="459.21480650588893" y="0" width="0.7851934941110488" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Shell
+                                C
                             </div>
                             <small>
-                                <div>838 lines</div>
-                                <div>65.13%</div>
+                                <div>1.42k lines</div>
+                                <div>48.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -179,7 +179,7 @@
                             </div>
                             <small>
                                 <div>45 lines</div>
-                                <div>3.55%</div>
+                                <div>2.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -191,7 +191,7 @@
                             </div>
                             <small>
                                 <div>2 lines</div>
-                                <div>0.24%</div>
+                                <div>0.17%</div>
                             </small>
                         </div>
                     </section>
@@ -199,13 +199,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                C
+                                Shell
                             </div>
                             <small>
-                                <div>751 lines</div>
-                                <div>27.97%</div>
+                                <div>838 lines</div>
+                                <div>46.83%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -217,7 +217,7 @@
                             </div>
                             <small>
                                 <div>69 lines</div>
-                                <div>3.11%</div>
+                                <div>2.24%</div>
                             </small>
                         </div>
                     </section>
