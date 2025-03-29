@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SANURB&fontSize=90)
 <h1 align="center">Hi there 👋, Santiago Urbano</h1>
-<h3 align="center">A young-dumb 🤓 developer from Colombia 🇨🇴</h3>
+<h3 align="center">A software developer from Colombia 🇨🇴</h3>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sanurb alt=sanurb/> </p>
-A passionate web developer from Cali, Valle del Cauca. I love making ideas come to life with code. I'm a big fan of functional programming. 
+A passionate fullstack developer. I love making ideas come to life with code. I'm a big fan of functional programming. 
 
 
-- 🌱 I’m currently learning Docker, and Kubernetes
+- 🌱 I’m currently learning Terraform, Ansible
 
 - 💬 Ask me about anything, I am happy to help 
 
