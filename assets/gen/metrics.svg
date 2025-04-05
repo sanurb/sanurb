@@ -26,17 +26,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 814kb of code in 1182 edited files across 130 commits over last 13 days</small>
+                <small>estimation from 897kb of code in 1201 edited files across 138 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="335.18870654453775" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="335.18870654453775" y="0" width="88.0787016460166" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="423.26740819055436" y="0" width="30.63383837906232" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="453.90124656961666" y="0" width="5.327056669648649" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.2283032392653" y="0" width="0.7716967607346646" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="289.9077397213216" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="289.9077397213216" y="0" width="82.22396346231233" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="372.13170318363393" y="0" width="46.077956663842144" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="418.2096598474761" y="0" width="36.51547322652515" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="454.72513307400123" y="0" width="4.607419427659108" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.33255250166036" y="0" width="0.6674474983396421" height="8" fill="#fcb32c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -49,31 +50,31 @@
                             </div>
                             <small>
                                 <div>13.2k lines</div>
-                                <div>72.87%</div>
+                                <div>63.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ff5a03" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                TSX
+                                Astro
                             </div>
                             <small>
-                                <div>1.36k lines</div>
-                                <div>6.66%</div>
+                                <div>12 lines</div>
+                                <div>10.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#fcb32c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                MDX
+                                JavaScript
                             </div>
                             <small>
-                                <div>30 lines</div>
-                                <div>0.17%</div>
+                                <div>312 lines</div>
+                                <div>1%</div>
                             </small>
                         </div>
                     </section>
@@ -86,20 +87,32 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>3.08k lines</div>
-                                <div>19.15%</div>
+                                <div>3.33k lines</div>
+                                <div>17.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                JavaScript
+                                TSX
                             </div>
                             <small>
-                                <div>312 lines</div>
-                                <div>1.16%</div>
+                                <div>1.96k lines</div>
+                                <div>7.94%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#fcb32c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                MDX
+                            </div>
+                            <small>
+                                <div>30 lines</div>
+                                <div>0.15%</div>
                             </small>
                         </div>
                     </section>
