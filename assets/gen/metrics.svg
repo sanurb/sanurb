@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="184" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="204" class="">
     <defs>
         <style/>
     </defs>
@@ -26,16 +26,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 997kb of code in 578 edited files across 171 commits over last 14 days</small>
+                <small>estimation from 1.07mb of code in 604 edited files across 185 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="300.67051105456073" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="300.67051105456073" y="0" width="150.3072138045173" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="450.977724859078" y="0" width="8.94590619382252" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.92363105290053" y="0" width="0.07636894709945863" height="8" fill="#B83998"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="301.0051904322257" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="301.0051904322257" y="0" width="149.8500800417924" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="450.8552704740181" y="0" width="8.918698745451584" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.7739692194697" y="0" width="0.14989409656221148" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.9238633160319" y="0" width="0.07613668396810741" height="8" fill="#B83998"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -47,8 +48,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>7.36k lines</div>
-                                <div>65.36%</div>
+                                <div>7.38k lines</div>
+                                <div>65.44%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -63,6 +64,18 @@
                                 <div>1.94%</div>
                             </small>
                         </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#B83998" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Erlang
+                            </div>
+                            <small>
+                                <div>4 lines</div>
+                                <div>0.02%</div>
+                            </small>
+                        </div>
                     </section>
                     <section>
                         <div class="field language details">
@@ -74,19 +87,19 @@
                             </div>
                             <small>
                                 <div>3.99k lines</div>
-                                <div>32.68%</div>
+                                <div>32.58%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#B83998" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Erlang
+                                Dockerfile
                             </div>
                             <small>
                                 <div>4 lines</div>
-                                <div>0.02%</div>
+                                <div>0.03%</div>
                             </small>
                         </div>
                     </section>
