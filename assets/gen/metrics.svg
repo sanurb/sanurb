@@ -32,10 +32,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="208.75727114166338" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="208.75727114166338" y="0" width="153.9342637583104" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="362.69153489997376" y="0" width="96.85118522244949" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.5427201224233" y="0" width="0.45727987757671784" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="208.9216919089621" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="208.9216919089621" y="0" width="153.7852299064351" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="362.7069218153972" y="0" width="96.83587061447432" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.5427924298715" y="0" width="0.457207570128503" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -47,8 +47,8 @@
                                 TSX
                             </div>
                             <small>
-                                <div>11.1k lines</div>
-                                <div>45.38%</div>
+                                <div>11.2k lines</div>
+                                <div>45.42%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -73,8 +73,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>6.18k lines</div>
-                                <div>33.46%</div>
+                                <div>6.17k lines</div>
+                                <div>33.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
