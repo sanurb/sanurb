@@ -26,18 +26,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.43mb of code in 528 edited files across 163 commits over last 14 days</small>
+                <small>estimation from 1.42mb of code in 516 edited files across 153 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="350.014511436221" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="350.014511436221" y="0" width="91.27862683116186" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="441.29313826738286" y="0" width="11.870282271620226" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="453.1634205390031" y="0" width="4.390096428493688" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="457.55351696749676" y="0" width="1.4296183250416599" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="458.9831352925384" y="0" width="1.0168647074615385" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="353.38712788843554" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="353.38712788843554" y="0" width="92.15815550362497" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="445.54528339206047" y="0" width="11.984660127319477" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.52994351937997" y="0" width="1.443393623281834" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="458.9733371426618" y="0" width="1.0266628573382073" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -50,7 +49,7 @@
                             </div>
                             <small>
                                 <div>23.2k lines</div>
-                                <div>76.09%</div>
+                                <div>76.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -62,19 +61,19 @@
                             </div>
                             <small>
                                 <div>897 lines</div>
-                                <div>2.58%</div>
+                                <div>2.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ff5a03" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Astro
+                                Dockerfile
                             </div>
                             <small>
-                                <div>58 lines</div>
-                                <div>0.31%</div>
+                                <div>67 lines</div>
+                                <div>0.22%</div>
                             </small>
                         </div>
                     </section>
@@ -88,31 +87,19 @@
                             </div>
                             <small>
                                 <div>5.98k lines</div>
-                                <div>19.84%</div>
+                                <div>20.03%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ff5a03" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Kotlin
+                                Astro
                             </div>
                             <small>
-                                <div>199 lines</div>
-                                <div>0.95%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Dockerfile
-                            </div>
-                            <small>
-                                <div>67 lines</div>
-                                <div>0.22%</div>
+                                <div>58 lines</div>
+                                <div>0.31%</div>
                             </small>
                         </div>
                     </section>
