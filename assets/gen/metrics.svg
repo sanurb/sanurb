@@ -26,17 +26,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.17mb of code in 420 edited files across 151 commits over last 13 days</small>
+                <small>estimation from 1.18mb of code in 427 edited files across 159 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="390.4846291503472" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="390.4846291503472" y="0" width="61.1231664422173" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="451.60779559256446" y="0" width="5.944338975421886" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.55213456798634" y="0" width="1.43042613921669" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="458.98256070720305" y="0" width="1.0174392927969296" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.0476309378879" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="388.0476309378879" y="0" width="63.66596218245942" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="451.7135931203473" y="0" width="5.869400814079489" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.58299393442684" y="0" width="1.4123932670584538" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="458.9953872014853" y="0" width="1.004612798514729" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -48,8 +48,8 @@
                                 TSX
                             </div>
                             <small>
-                                <div>25.6k lines</div>
-                                <div>84.89%</div>
+                                <div>25.8k lines</div>
+                                <div>84.36%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -61,7 +61,7 @@
                             </div>
                             <small>
                                 <div>430 lines</div>
-                                <div>1.29%</div>
+                                <div>1.28%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -86,8 +86,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>3.98k lines</div>
-                                <div>13.29%</div>
+                                <div>4.20k lines</div>
+                                <div>13.84%</div>
                             </small>
                         </div>
                         <div class="field language details">
